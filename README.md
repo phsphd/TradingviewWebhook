@@ -1,9 +1,11 @@
+
 # TradingviewWebhook
 
 Webhook URL (POST ONLY): https://webhooknextjs.vercel.app/api/webhook
+
 Website: https://webhooknextjs.vercel.app
-Postman Testing
-Tradier
+**Postman Testing**
+**Tradier**
 {
   "Broker": "Tradier",
   "Action": "buy",
@@ -14,7 +16,7 @@ Tradier
   "TradierAccessToken": "GQkjksJLASKuefDfhUiOISBSWKwT"
 }
 
-Alpaca
+**Alpaca**
 {
   "Broker": "Alpaca",
   "Action": "buy",
@@ -26,9 +28,9 @@ Alpaca
 }
 
 
-JSON for Tradingview Alert
+**JSON for Tradingview Alert**
 
-Tradier
+**Tradier**
 {
   "Broker": "Tradier",
   "Action": "buy",
@@ -39,7 +41,7 @@ Tradier
   "TradierAccessToken": "GQkjksJkHsdffDfhUiOISBSWKwT"
 }
 
-Alpaca
+**Alpaca**
 {
   "Broker": "Alpaca",
   "Action": "buy",
@@ -50,8 +52,8 @@ Alpaca
   "API_SECRET": "IZtC2sdsdasaUIdffdfHwjfgfgfxidd"
 }
 
-Enable After-hour Trading
-Tradier
+**Enable After-hour Trading**
+**Tradier**
 {
   "Broker": "Tradier",
   "Action": "buy",
@@ -63,7 +65,7 @@ Tradier
   "Testing": "true"
 }
 
-Alpaca
+**Alpaca**
 {
   "Broker": "Alpaca",
   "Action": "buy",
